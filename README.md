@@ -1,7 +1,6 @@
-[![MasterHead](https://gifer.com/embed/1ykv)](https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Ramazon Kubayev</h1>
 <h3 align="center">.NET developer</h3>
-(img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/90318905/173024108-1218cd7a-dc2e-4782-803c-e6a6a38fe697.jpg")
+(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romadev111&label=Profile%20views&color=0e75b6&style=flat" alt="romadev111" /> </p>
 
