@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ramazon Kubayev</h1>
 <h3 align="center">.NET developer</h3>
-(img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/116207...")
+![0660efe82fa3da42ed56eef013171835](https://github.com/RomaDev111/RomaDev111/assets/138494620/62c688c9-d47b-42f8-be16-e56cf0e24171)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=romadev111&label=Profile%20views&color=0e75b6&style=flat" alt="romadev111" /> </p>
 
